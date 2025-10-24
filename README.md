@@ -1,4 +1,4 @@
-# DoMapping: Multi-UAV Real-Time DOM Mapping with Local-to-Global Optimization
+# DOMapping: Multi-UAV Real-Time DOM Mapping with Local-to-Global Optimization
 
 ![DoMapping](./docs/domapping.gif)
 
@@ -80,8 +80,8 @@ https://github.com/npupilab/npu-dronemap-dataset
 If you use this project for your research, please cite
 ```
 @inproceedings{,
-    author={},
-    title={DoMapping: Multi-UAV Real-Time DOM Mapping with Local-to-Global Optimization},
+    author={Li Tang, Hongqi Jin, Yan Zhou, Xiaoping Liu},
+    title={DOMapping: Multi-UAV Real-Time DOM Mapping with Local-to-Global Optimization},
     booktitle={***},
     year={2025},
 }
